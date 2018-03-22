@@ -1,16 +1,16 @@
 软件安装文档
 ===
 
-[vm安装](D:\360Downloads\git\java\java\vm安装.md)
+ 1.[vm安装](vm安装.md)
 
-[oracle安装](D:\360Downloads\git\java\java\oracle安装.md)
+ 2.[oracle安装](oracle安装.md)
 
-[awesomium安装](D:\360Downloads\git\java\java\awesomium.md)
+ 3.[awesomium安装](awesomium.md)
 
-[markdown安装](D:\360Downloads\git\java\java\markdown.md)
+ 4.[markdown安装](markdown.md)
 
-[github注册](D:\360Downloads\git\java\java\github.md)
+ 5.[github注册](github.md)
 
-[gitbash上传](D:\360Downloads\git\java\java\gitbash.md)
+ 6.[gitbash上传](gitbash.md)
 
-[gitbash上传文档修改](D:\360Downloads\git\java\java\git文档修改.md)
+ 7.[gitbash上传文档修改](git文档修改.md)
