@@ -1,0 +1,49 @@
+ oracle 安装
+===
+1 oracle下载地址https://www.oracle.com<br>
+![](oracle.png/1.png)<br>
+2![](oracle.png/2.png)<br>
+3![](oracle.png/3.png)<br>
+4![](oracle.png/4.png)<br>
+5![](oracle.png/5.png)<br>
+6![](oracle.png/6.png)<br>
+7![](oracle.png/7.png)<br>
+8![](oracle.png/8.png)<br>
+9![](oracle.png/9.png)<br>
+  oracle安装<br>
+==
+10![](oracle.png/10.png)<br>
+11![](oracle.png/11.png)<br>
+12![](oracle.png/12.png)<br>
+13![](oracle.png/13.png)<br>
+14![](oracle.png/14.png)<br>
+15![](oracle.png/15.png)<br>
+16![](oracle.png/16.png)<br>
+17![](oracle.png/17.png)<br>
+18![](oracle.png/18.png)<br>
+19![](oracle.png/19.png)<br>
+20![](oracle.png/20.png)<br>
+21![](oracle.png/21.png)<br>
+22![](oracle.png/22.png)<br>
+23![](oracle.png/23.png)<br>
+24![](oracle.png/24.png)<br>
+25![](oracle.png/25.png)<br>
+26![](oracle.png/26.png)<br>
+27![](oracle.png/27.png)<br>
+28![](oracle.png/28.png)<br>
+29![](oracle.png/29.png)<br>
+30![](oracle.png/30.png)<br>
+31![](oracle.png/31.png)<br>
+32![](oracle.png/32.png)<br>
+33![](oracle.png/33.png)<br>
+34![](oracle.png/34.png)<br>
+35![](oracle.png/35.png)<br>
+36![](oracle.png/36.png)<br>
+37![](oracle.png/37.png)<br>
+
+ oracl卸载<br>
+===
+
+38![](oracle.png/38.png)<br>
+39![](oracle.png/39.png)<br>
+40![](oracle.png/40.png)<br>
